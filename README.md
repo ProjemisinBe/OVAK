@@ -1,6 +1,6 @@
 # OVAK
 OVAK-Temel Proje Tanımlaması:
-
+```
 📁 proje-adi/
 ├── 📁 veri_toplayici/                # Veri kaynaklarından veri çekmek için sınıflar içerir
 │   ├── veri_toplayici.py             # API, CSV ve veritabanı bağlantılarını yöneten sınıflar
@@ -18,7 +18,7 @@ OVAK-Temel Proje Tanımlaması:
 │   ├── rapor_olusturucu.py           # PDF ve Excel formatında rapor oluşturma
 ├── requirements.txt                  # Proje için gerekli Python bağımlılıklarını tanımlar
 ├── README.md                         # Proje hakkında genel bilgiler ve kullanım talimatları
-
+```
 ---
 ## Proje Özeti
 
